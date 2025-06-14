@@ -1,55 +1,28 @@
 Author- Siddharth Singh
-# Python for Data Science, AI, and Development
 
-Welcome! 👋 This repository contains all my labs, assignments, quizzes, and project work completed as part of the **"Python for Data Science, AI, and Development"** course.
+# Python for Data Science, AI, and Development 🌱
 
----
-
-## 📚 Course Overview
-
-This course provides foundational knowledge in Python, tailored for data science, AI, and software development. It covers everything from basic syntax and data structures to working with APIs and real-world data.
+Welcome to my repository for the **"Python for Data Science, AI, and Development"** course!  
+This repo contains all my hands-on labs, exercises, and the final project I completed as part of the course.
 
 ---
 
-## 🧭 Course Structure
+## 📌 Course Goals
 
-The course is divided into five modules:
-
-### Module 1: Python Basics
-- Expressions and Variables
-- String Operations
-- Basic Types and Syntax
-
-### Module 2: Python Data Structures
-- Lists and Tuples
-- Dictionaries
-- Sets
-
-### Module 3: Python Programming Fundamentals
-- Conditions and Branching
-- Loops
-- Functions
-- Exception Handling
-- Objects and Classes
-
-### Module 4: Working with Data in Python
-- File Handling with `open()`
-- Pandas Library
-- NumPy Library
-
-### Module 5: APIs and Data Collection
-- Simple APIs
-- REST APIs & Web Scraping
-- Final Project and Quiz
+- Learn Python from scratch.
+- Understand and use core data structures like lists, tuples, sets, and dictionaries.
+- Write functions, use loops and conditionals, and handle exceptions.
+- Work with files, APIs, and web scraping.
+- Analyze data using Pandas and NumPy.
 
 ---
 
-## 🛠️ What You’ll Find in This Repo
+## 🗂️ Repository Structure
 
-- ✅ Lab exercises (`/labs`)
-- 🧪 Practice notebooks (`/practice`)
-- 📝 Notes and summaries (`/notes`)
-- 🎓 Peer-graded project (`/project`)
-- 📊 Final quiz prep (`/final-quiz`)
-
----
+```bash
+/module1_basics/               # Variables, Types, and Strings
+/module2_data_structures/     # Lists, Tuples, Sets, Dictionaries
+/module3_programming_fundamentals/  # Loops, Functions, OOP
+/module4_working_with_data/   # File I/O, Pandas, NumPy
+/module5_apis_and_webscraping/     # APIs, Web Scraping
+/project/                     # Peer-reviewed final project
