@@ -1,4 +1,4 @@
-Author- Siddharth Singh
+Author- Siddharth Singh (jsr)
 
 # Python for Data Science, AI, and Development 🌱
 
